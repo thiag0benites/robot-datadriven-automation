@@ -1,0 +1,10 @@
+images/*.png
+*.log
+*.png
+__pycache__/
+*.py[cod]
+tests
+results
+log.html
+output.xml
+report.html

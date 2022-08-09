@@ -1,0 +1,4 @@
+﻿ID;PRONTO;BROWSER;CASO_TESTE;COMPONENTES;login_user;login_pass;login_msg_esperada
+1;sim;chrome;CT001:Login com sucesso;login;Admin;admin123;
+2;sim;chrome;CT002:Login senha branco;login;Admin;;Password cannot be empty
+3;sim;chrome;CT003:Acessa tela adminstracao;login|admin;Admin;admin123;
